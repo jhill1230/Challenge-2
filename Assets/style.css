@@ -128,7 +128,7 @@ nav ul li a {
 
 #work .refactoring {
     height: 300px;
-    width: auto;
+    width: 80%;
 }
 
 .refactor h3{
@@ -222,6 +222,7 @@ nav ul li a {
     }
     #work .refactor {
         order: 3;
+        width: 80%;
     }
     #work .refactoring {
         order: 4;
